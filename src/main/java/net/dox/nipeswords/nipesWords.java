@@ -77,6 +77,7 @@ public class nipesWords
 
         if(event.getTabKey() == CreativeModeTabs.COMBAT){
             event.accept(items.NIPES_SWORD);
+            event.accept(items.NIPES_SHIELD);
         }
 
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES){

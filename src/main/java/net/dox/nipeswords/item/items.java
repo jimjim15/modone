@@ -24,7 +24,9 @@ public class items {
 
 
     public static final RegistryObject<Item> NIPES_SWORD = ITEMS.register("nipes_sword",() -> new NipesSword(ModToolTiers.NIPES, 10, 1, new Item.Properties()));
+
   //  public static final RegistryObject<Item> NIPES_AXE = ITEMS.register("nipes_axe",() -> new AxeItem(ModToolTiers.NIPES, 2, 1, new Item.Properties()));
+  public static final RegistryObject<Item> NIPES_SHIELD = ITEMS.register("nipes_shield",() -> new ShieldItem(new Item.Properties()));
     public static final RegistryObject<Item> NIPES_HOE = ITEMS.register("nipes_hoe",() -> new HoeItem(ModToolTiers.NIPES, 10, 1, new Item.Properties()));
   //  public static final RegistryObject<Item> NIPES_SHOVEL = ITEMS.register("nipes_shovel",() -> new ShovelItem(ModToolTiers.NIPES, 1, 1, new Item.Properties()));
     //public static final RegistryObject<Item> NIPES_PICKAXE = ITEMS.register("nipes_pickaxe",() -> new PickaxeItem(ModToolTiers.NIPES, 1, 1, new Item.Properties()));
