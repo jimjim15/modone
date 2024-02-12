@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "nipeswords:item/nipes_sword_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "nipeswords:item/nipes_sword_2d"
+    },
+    "head": {
+      "parent": "nipeswords:item/nipes_sword_2d"
+    },
+    "fixed": {
+      "parent": "nipeswords:item/nipes_sword_2d"
+
+    }
+  }
+}

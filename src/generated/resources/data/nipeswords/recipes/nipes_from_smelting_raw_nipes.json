@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "ingredients",
+  "ingredient": {
+    "item": "nipeswords:raw_nipes"
+  },
+  "result": "nipeswords:nipes"
+}

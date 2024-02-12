@@ -1,0 +1,44 @@
+{
+  "burger_death": {
+    "subtitles": "sounds.tutorialmod.burger_death",
+    "sounds": [
+      "nipeswords:burger_death"
+    ]
+  },
+  "burger_hurt": {
+    "subtitles": "sounds.tutorialmod.burger_hurt",
+    "sounds": [
+      "nipeswords:burger_hurt"
+    ]
+  },
+  "burger_ambient": {
+    "subtitles": "sounds.tutorialmod.burger_ambient",
+    "sounds": [
+      "nipeswords:burger_ambient"
+    ]
+  },
+  "skibidi_ambient": {
+    "subtitles": "sounds.tutorialmod.skibidi_ambient",
+    "sounds": [
+      "nipeswords:skibidi_ambient"
+    ]
+  },
+  "skibidi_death": {
+    "subtitles": "sounds.tutorialmod.skibidi_death",
+    "sounds": [
+      "nipeswords:skibidi_death"
+    ]
+  },
+  "skibidi_hurt": {
+    "subtitles": "sounds.tutorialmod.skibidi_hurt",
+    "sounds": [
+      "nipeswords:skibidi_hurt"
+    ]
+  },
+  "dealer_trade": {
+    "subtitles": "sounds.tutorialmod.dealer_trade",
+    "sounds": [
+      "nipeswords:dealer_trade"
+    ]
+  }
+}

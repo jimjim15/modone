@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+"category": "misc",
+"key": {
+"#": {
+"item": "minecraft:porkchop"
+},
+"S": {
+"item": "minecraft:bone"
+},
+  "X": {
+    "item": "minecraft:poisonous_potato"
+  }
+},
+"pattern": [
+"#X#",
+"#S#",
+"###"
+],
+"result": {
+"item": "nipeswords:raw_nipes"
+},
+"show_notification": true
+}

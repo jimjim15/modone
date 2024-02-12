@@ -1,0 +1,21 @@
+{
+  "item.nipeswords.nipes": "Nipes",
+  "item.nipeswords.raw_nipes": "Raw Nipes",
+  "item.nipeswords.nipes_sword": "Nipes Sword",
+  "item.nipeswords.nipes_hoe": "Nipes Hoe",
+  "item.nipeswords.moneys": "Money",
+  "item.nipeswords.meth": "Weed Crack",
+  "item.nipeswords.burger_spawn_egg": "Burger Spawn Egg",
+  "item.nipeswords.skibidi_spawn_egg": "Skibidi Spawn Egg",
+  "block.nipeswords.nipes_block": "Block of Nipes",
+  "entity.minecraft.villager.nipeswords.dealer": "Dealer",
+  "entity.nipeswords.burger": "HeisenBurg",
+  "entity.nipeswords.skibidi": "Skibidi",
+  "sounds.nipeswords.burger_death": "Hiesenburg dead",
+  "sounds.nipeswords.burger_hurt": "burger hurt",
+  "sounds.nipeswords.burger_ambient": "weirdo meth head talking",
+  "sounds.nipeswords.skibidi_death": "toilet flushing ",
+  "sounds.nipeswords.skibidi_hurt": "skibidi hurt",
+  "sounds.nipeswords.skibidi_ambient": "skibidi dop dop yes ",
+  "sounds.nipeswords.dealer_trade": "damn druggie"
+}
