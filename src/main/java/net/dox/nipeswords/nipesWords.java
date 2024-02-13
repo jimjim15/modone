@@ -5,6 +5,7 @@ import net.dox.nipeswords.block.ModBlocks;
 import net.dox.nipeswords.entity.ModEntities;
 import net.dox.nipeswords.entity.client.BurgerRenderer;
 import net.dox.nipeswords.entity.client.SkibidiRenderer;
+import net.dox.nipeswords.item.ModCreativeModeTabs;
 import net.dox.nipeswords.item.items;
 import net.dox.nipeswords.sound.ModSounds;
 import net.dox.nipeswords.villager.ModVillagers;
@@ -42,7 +43,7 @@ public class nipesWords
 
 
         ModVillagers.register(modEventBus);
-
+        ModCreativeModeTabs.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
         ModEntities.register(modEventBus);
