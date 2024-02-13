@@ -60,30 +60,7 @@ public class nipesWords
 
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
-        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS){
-            event.accept(items.NIPES);
-            event.accept(items.RAW_NIPES);
-            event.accept(items.MONEY);
-            event.accept(items.METH);
-        }
 
-        if(event.getTabKey() == CreativeModeTabs.SPAWN_EGGS){
-            event.accept(items.BURGER_SPAWN_EGG);
-            event.accept(items.SKIBIDI_SPAWN_EGG);
-        }
-
-        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
-            event.accept(ModBlocks.NIPES_BLOCK.get());
-        }
-
-        if(event.getTabKey() == CreativeModeTabs.COMBAT){
-            event.accept(items.NIPES_SWORD);
-            event.accept(items.NIPES_SHIELD);
-        }
-
-        if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES){
-            event.accept(items.NIPES_HOE);
-        }
     }
 
 
