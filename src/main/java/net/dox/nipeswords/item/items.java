@@ -15,7 +15,7 @@ public class items {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, nipesWords.MOD_ID);
     public static final RegistryObject<Item> NIPES = ITEMS.register("nipes",() -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RAW_NIPES = ITEMS.register("raw_nipes",() -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> MONEY = ITEMS.register("moneys",() -> new Item(new Item.Properties().stacksTo(100)));
+    public static final RegistryObject<Item> MONEY = ITEMS.register("moneys",() -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> METH = ITEMS.register("meth",() -> new Item(new Item.Properties().food(ModFoods.CRYSTAL_METH)));
 
     public static final RegistryObject<Item> BURGER_SPAWN_EGG = ITEMS.register("burger_spawn_egg",() -> new ForgeSpawnEggItem(ModEntities.BURGER,0x639b7b,0xdfdeae, new Item.Properties()));
