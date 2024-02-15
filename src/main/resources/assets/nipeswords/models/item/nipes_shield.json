@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "nipeswords:item/nipes_shield_3d"
+  },
+
+  "perspectives": {
+
+  }
+}

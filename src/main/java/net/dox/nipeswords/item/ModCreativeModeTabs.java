@@ -19,6 +19,7 @@ public class ModCreativeModeTabs {
                 output.accept(items.NIPES.get());
                 output.accept(items.RAW_NIPES.get());
                 output.accept(items.NIPES_SWORD.get());
+                output.accept(items.NIPES_SHIELD.get());
                 output.accept(items.NIPES_HOE.get());
                 output.accept(items.METH.get());
                 output.accept(items.MONEY.get());
